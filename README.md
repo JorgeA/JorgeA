@@ -2,6 +2,7 @@
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
+    
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jorge+%F0%9F%91%8B;Network+Engineer;Systems+Engineer;Problem+Solver;Python+Learner+Enthusiast" alt="Headline" />
 
@@ -9,10 +10,10 @@
 <!--Start Intro-->               
 <p align="left">I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation. </p>
 
-- 🌱 I’m currently learning AWS and Python Programming.
-- 💼 Working as a Network Engineer at Sysco.
-- 💁‍♂️ Volunteer to teach about Networking and Technology in general.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-arguedas-jimenez-bb927297/)
+<li>🌱 <b>I’m currently learning</b>: AWS and Python Programming.</li>
+<li>💼 <b>Working as a</b>: Network Engineer at Sysco.</li>
+<li>💁‍♂️ <b>Volunteer to</b>: Teach about Networking and Technology in general.</li>
+<li> :mailbox:<b>How to reach me</b>: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-arguedas-jimenez-bb927297/)</li>
 
 <!--End Intro-->
 
