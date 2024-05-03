@@ -5,7 +5,7 @@
     
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jorge+%F0%9F%91%8B;Network+Engineer;Systems+Engineer;Problem+Solver;Python+Learner+Enthusiast" alt="Headline" />
-
+</div>
   
 <!--Start Intro-->               
 <p align="left">I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation. </p>
