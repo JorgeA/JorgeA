@@ -4,14 +4,10 @@
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jorge+%F0%9F%91%8B;Network+Engineer;Systems+Engineer;Problem+Solver;Python+Learner+Enthusiast" alt="Headline" />
-    </div> 
-    <div align=center>
-        <a href="https://www.linkedin.com/in/jorge-arguedas-jimenez-bb927297/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-    </div>
 
   
 <!--Start Intro-->               
-<p align="left">I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation. </p>
+<p align="left"><strong>I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation.</strong> </p>
 
 - 🌱 I’m currently learning AWS and Python Programming.
 - 💼 Working as a Network Engineer at Sysco.
