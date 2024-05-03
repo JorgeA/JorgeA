@@ -7,7 +7,7 @@
     </div>
   
 <!--Start Intro-->               
-<p align="left">I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation. </p>
+<p align="left"><strong></strong>I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API, and Automation. </strong></p>
 
 <li>🌱 <b>I’m currently learning</b>: AWS and Python Programming.</li>
 <li>💼 <b>Working as a</b>: Network Engineer at Sysco.</li>
