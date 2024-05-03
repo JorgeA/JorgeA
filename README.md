@@ -22,7 +22,7 @@
 <br />
   
 
-<h3 align="center">My Statistics:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
 <table align="center">
 <tr border="none">
