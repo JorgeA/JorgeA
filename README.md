@@ -29,7 +29,7 @@
 <br />
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Languages and Tools Section </b>
-<img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,aws,postman,terraform,azure,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=github,py,git,vscode,aws,postman,terraform,azure,windows,mac,linux&perline=10"  />
 </p>
 <br />
   
