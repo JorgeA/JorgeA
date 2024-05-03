@@ -12,7 +12,7 @@
 <li>🌱 <b>I’m currently learning</b>: AWS and Python Programming.</li>
 <li>💼 <b>Working as a</b>: Network Engineer at Sysco.</li>
 <li>💁‍♂️ <b>Volunteer to</b>: Teach about Networking and Technology in general.</li>
-<li> :mailbox:<b>How to reach me</b>:<a href="https://www.linkedin.com/in/jorge-arguedas-jimenez-bb927297/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a></li>
+<li> :mailbox:<b>How to reach me  </b>:<a href="https://www.linkedin.com/in/jorge-arguedas-jimenez-bb927297/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a></li>
 
 <!--End Intro-->
 
