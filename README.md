@@ -7,13 +7,13 @@
     </div>
   
 <!--Start Intro-->               
-<p align="left"><strong></strong>I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API, and Automation. </strong></p>
+<p align="left"><strong>I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API, and Automation. </strong></p>
 
 <li>🌱 <b>I’m currently learning</b>: AWS and Python Programming.</li>
 <li>💼 <b>Working as a</b>: Network Engineer at Sysco.</li>
 <li>💁‍♂️ <b>Volunteer to</b>: Teach about Networking and Technology in general.</li>
 <li> :mailbox:<b>How to reach me</b>:  <a href="https://www.linkedin.com/in/jorge-arguedas-jimenez-bb927297/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a></li>
-
+<br />
 <!--End Intro-->
 
 <!--Profile Count Badge-->
