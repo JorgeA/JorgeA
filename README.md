@@ -8,7 +8,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=JorgeA&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="JorgeA" style="padding-right:20px;" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeA&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinAlhadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JorgeA&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
