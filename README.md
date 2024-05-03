@@ -7,7 +7,7 @@
 
   
 <!--Start Intro-->               
-<p align="left"><strong>I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation.</strong> </p>
+<p align="left">I am a Systems Engineer and Developer Enthusiast with a huge love for Python, REST API and Automation. </p>
 
 - 🌱 I’m currently learning AWS and Python Programming.
 - 💼 Working as a Network Engineer at Sysco.
